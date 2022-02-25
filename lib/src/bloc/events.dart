@@ -1,0 +1,3 @@
+enum FoodEvents {
+  fetchFoodList,
+}
